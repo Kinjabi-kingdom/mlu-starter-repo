@@ -1,10 +1,10 @@
-# my-first-repo
+H1 my-first-repo
 
 A practice sandbox for the **AWS MLU Faculty Fellowship** at Delaware State University, College of Agriculture, Science & Technology.
 
 > This repository exists so you can fork it, edit it, and make your first commit — all in the browser. It is intentionally small and friendly.
 
-## Welcome, faculty.
+H2 Welcome, faculty.
 
 You are looking at the repository you will fork in **Workshop One: Git in the Browser**. After you click the **Fork** button, this becomes *your* version. Anything you change in your fork stays in your fork. The original is untouched.
 
